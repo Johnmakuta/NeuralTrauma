@@ -5,4 +5,4 @@ Project to simulate the degradation of performance of a Spiking Neural Network (
 ## Neuron Type Network Evaluation
 - [x] 1st Order Leaky
 - [x] Lapicque
-- [ ] Recurrent Leaky
+- [x] Recurrent Leaky
